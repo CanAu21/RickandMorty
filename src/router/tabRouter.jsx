@@ -25,7 +25,7 @@ const TabNavigator = () => {
         ),
         headerStyle: tabBarStyle.headerStyle,
         tabBarStyle: tabBarStyle.tabBarStyle,
-        tabBarActiveTintColor: Colors.BLACK,
+        tabBarActiveTintColor: Colors.PRIMARY,
       })}>
       <Tab.Screen name={CHARACTERS} component={Characters} />
       <Tab.Screen name={EPISODES} component={Episodes} />
