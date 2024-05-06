@@ -1,10 +1,10 @@
 import {View, Text} from 'react-native';
 import React from 'react';
-import {container} from '../../styles/container';
+import {screensStyle} from '../../styles/screensStyle';
 
 const Episodes = () => {
   return (
-    <View style={container}>
+    <View style={screensStyle.container}>
       <Text>Episodes</Text>
     </View>
   );
