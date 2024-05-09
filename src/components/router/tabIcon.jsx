@@ -2,7 +2,6 @@ import React from 'react';
 import {CHARACTERS, EPISODES, LOCATIONS, SETTINGS} from '../../utils/routes';
 import {
   Android,
-  Home,
   Location,
   PresentionChart,
   Setting2,
